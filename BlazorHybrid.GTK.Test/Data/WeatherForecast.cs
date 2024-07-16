@@ -1,4 +1,4 @@
-namespace WebKitGtk.Test.Data;
+namespace BlazorHybrid.GTK.Test.Data;
 
 using System;
 
